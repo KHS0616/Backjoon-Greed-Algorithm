@@ -36,8 +36,8 @@
       <recent name="D:\programming\Python\Backjoon-Greed-Algorithm\Greed-Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.G2812">
-    <configuration name="G1202" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.G2816">
+    <configuration name="G1041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Greed-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G1202.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G1041.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G1543" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="G1439" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Greed-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G1543.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G1439.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,6 +100,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="G2816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Greed-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G2816.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="G8980" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Greed-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,34 +142,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G9576" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Greed-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G9576.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.G2816" />
+        <item itemvalue="Python.G1439" />
+        <item itemvalue="Python.G1041" />
         <item itemvalue="Python.G2812" />
         <item itemvalue="Python.G8980" />
-        <item itemvalue="Python.G9576" />
-        <item itemvalue="Python.G1202" />
-        <item itemvalue="Python.G1543" />
       </list>
     </recent_temporary>
   </component>
@@ -182,30 +182,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="542" y="192" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580953566035" />
-    <state width="1899" height="297" key="GridCell.Tab.0.bottom" timestamp="1581927671941">
+    <state width="1899" height="297" key="GridCell.Tab.0.bottom" timestamp="1583138995009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581927671941" />
-    <state width="1899" height="297" key="GridCell.Tab.0.center" timestamp="1581927671941">
+    <state width="1899" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583138995009" />
+    <state width="1899" height="297" key="GridCell.Tab.0.center" timestamp="1583138995009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581927671941" />
-    <state width="1899" height="297" key="GridCell.Tab.0.left" timestamp="1581927671941">
+    <state width="1899" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583138995009" />
+    <state width="1899" height="297" key="GridCell.Tab.0.left" timestamp="1583138995009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581927671941" />
-    <state width="1899" height="297" key="GridCell.Tab.0.right" timestamp="1581927671941">
+    <state width="1899" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583138995009" />
+    <state width="1899" height="297" key="GridCell.Tab.0.right" timestamp="1583138995009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581927671941" />
+    <state width="1899" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583138995009" />
     <state x="451" y="175" key="SettingsEditor" timestamp="1580954323780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="451" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580954323780" />
-    <state x="642" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1581916486660">
+    <state x="642" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1583133139047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581916486660" />
+    <state x="642" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583133139047" />
     <state x="613" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1581477226900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
